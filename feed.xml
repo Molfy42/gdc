@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Good Game</title>
+    <link href="https://molfy42.github.io/gdc/feed.xml" rel="self" />
+    <link href="https://molfy42.github.io/gdc" />
+    <updated>2022-10-27T14:45:30+02:00</updated>
+    <author>
+        <name>Molfy</name>
+    </author>
+    <id>https://molfy42.github.io/gdc</id>
+
+    <entry>
+        <title>Chat</title>
+        <author>
+            <name>Molfy</name>
+        </author>
+        <link href="https://molfy42.github.io/gdc/mon-site.html"/>
+        <id>https://molfy42.github.io/gdc/mon-site.html</id>
+
+        <updated>2022-10-27T14:45:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Choco Chat noir
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Choco<figure class="post__image"><img loading="lazy"  src="https://molfy42.github.io/gdc/media/posts/1/IMG_2197.JPG" sizes="100vw" srcset="https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-xs.JPG 300w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-sm.JPG 480w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-md.JPG 768w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-lg.JPG 1024w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-xl.JPG 1360w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-2xl.JPG 1600w"  alt="Chat noir" width="6000" height="4000"></figure>
+<p>Chat noir</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Good Game",
+    "description": "",
+    "home_page_url": "https://molfy42.github.io/gdc",
+    "feed_url": "https://molfy42.github.io/gdc/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Molfy"
+    },
+    "items": [
+        {
+            "id": "https://molfy42.github.io/gdc/mon-site.html",
+            "url": "https://molfy42.github.io/gdc/mon-site.html",
+            "title": "Chat",
+            "summary": "Choco Chat noir",
+            "content_html": "<p>Choco<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://molfy42.github.io/gdc/media/posts/1/IMG_2197.JPG\" sizes=\"100vw\" srcset=\"https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-xs.JPG 300w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-sm.JPG 480w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-md.JPG 768w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-lg.JPG 1024w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-xl.JPG 1360w ,https://molfy42.github.io/gdc/media/posts/1/responsive/IMG_2197-2xl.JPG 1600w\"  alt=\"Chat noir\" width=\"6000\" height=\"4000\"></figure>\n<p>Chat noir</p>",
+            "author": {
+                "name": "Molfy"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T14:44:42+02:00",
+            "date_modified": "2022-10-27T14:45:30+02:00"
+        }
+    ]
+}

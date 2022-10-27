@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://molfy42.github.io/gdc/sitemap.xml
